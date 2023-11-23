@@ -11,7 +11,7 @@ Hacker News Scraper is a Python script that fetches top posts from Hacker News, 
 
 ## Files
 
-- **hacker_news_scraper.py**: Python script for scraping Hacker News.
+- **hn_scraper.py**: Python script for scraping Hacker News.
 - **readme.md**: This file, providing instructions and information about the project.
 
 ## Author
